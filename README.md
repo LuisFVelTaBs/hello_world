@@ -5,3 +5,5 @@ I'm Luis Velasquez, a mainframe developer now doing some experiments with AI to 
 admin apps for our family business.
 
 I've have in mind sharing ideas with senior mates that want to poke around with this new technologies.
+
+Updated on february 11, 2026
